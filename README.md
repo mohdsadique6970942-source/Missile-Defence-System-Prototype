@@ -87,6 +87,12 @@ Start → Measure Distance → Object Detected?
 
 ---
 
+## 🎥 Project Demo
+
+[![Watch the video](https://img.youtube.com/vi/7qkNw4xBlLQ/0.jpg)](https://youtu.be/7qkNw4xBlLQ)
+
+---
+
 🎯 Applications
 1. Defence system simulation
 2. Object tracking systems
