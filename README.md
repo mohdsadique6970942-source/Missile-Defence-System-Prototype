@@ -4,15 +4,6 @@ This project is a prototype of a **missile defence system** built using Arduino 
 
 ---
 
-## 🚀 Features
-- Object detection using ultrasonic sensor  
-- Target tracking using dual servo motors  
-- Audio alert using buzzer  
-- Visual alert using LED  
-- Real-time response system  
-
----
-
 ## 🧰 Components Used
 - Arduino Uno  
 - Breadboard  
@@ -77,7 +68,7 @@ The ultrasonic sensor continuously measures distance. When an object is detected
 
 ---
 
-#🔄 Flow Logic
+# 🔄 Flow Logic
 Start → Measure Distance → Object Detected?
           ↓ YES                ↓ NO
      Move Servos          Keep Scanning
@@ -93,14 +84,14 @@ Start → Measure Distance → Object Detected?
 
 ---
 
-🎯 Applications
+# 🎯 Applications
 1. Defence system simulation
 2. Object tracking systems
 3. Robotics learning projects
 
 ---
 
-📚 Learning Outcomes
+# 📚 Learning Outcomes
 1. Sensor interfacing
 2. Servo motor control
 3. Real-time system response
@@ -108,6 +99,6 @@ Start → Measure Distance → Object Detected?
 
 ---
 
-📄 License
+# 📄 License
 
 Open-source for educational purposes.
